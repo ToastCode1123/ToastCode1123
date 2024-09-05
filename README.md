@@ -12,6 +12,7 @@
 
 - other: ...
   i have adhd and anxiety (coding makes it better)
+  im also nine years old in fourth grade
 <!---
 ToastCode1123/ToastCode1123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
